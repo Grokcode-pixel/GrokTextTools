@@ -1,4 +1,21 @@
 # Grok’s Text Tools
+A simple utility for text processing: case conversion, passwords, cleanup, and counting.
+
+## How to Use
+1. Install Python (https://www.python.org/).  
+2. Download `text_tools.py` from this repository.  
+3. Run: `python text_tools.py`.  
+
+## Features
+- Convert text to UPPERCASE or lowercase.  
+- Generate random passwords.  
+- Count words and characters.  
+- Clean text from unnecessary characters.  
+
+## Support the Author
+If this utility helped you, I’d appreciate your support: [Boosty](https://boosty.to/grokcode/donate)
+
+# Grok’s Text Tools
 Простая утилита для работы с текстом: регистр, пароли, очистка и подсчет.  
 
 ## Как использовать
